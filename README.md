@@ -69,6 +69,7 @@ pip install -r requirements.txt
 - This creates the virtual environment necessary to run the sruthi identification/ standardization & raga feature extraction pipeline in Visual Studio code.
 - If there are compute issues, you could upload the cloned repository to your Google Drive and open the ipynb file with Collab.
 - In collab, select the GPU compute resource (for e.g. L4) and then mount your drive. From then, you are free to run and experiment with the code.
+- All the .py and .ipynb files have guided comments and are self explanatory.
 
 ## Credits:
 I thank my mentor Dr. Xiao Hu and all the references and citations I have mentioned below, to enable me with the structured thought process to approach this problem.

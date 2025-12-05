@@ -23,16 +23,21 @@ There are 3 major pipelines in this project:<br>
 ![Architecture](architecture.jpg)
 <br>
 
-### How to use this repository? <br>
+## How to use this repository? <br>
 
-For this project, I used both Google Collab & Microsoft Visual Studio for coding. <br>
-Feature extraction was performed in Visual Studio code while EDA & Model Building was performed in Collab. <br>
-
-My observation and recommendation is to build the entire project in Collab to leverage the free student compute it provides for one year.<br>
-However, this can be built in local IDEs for small datasets for ease of usage and experimentations.
+For this project, I used both Google Collab & Microsoft Visual Studio for coding. Feature extraction was performed in Visual Studio code while EDA & Model Building was performed in Collab. My observation and recommendation is to build the entire project in Collab to leverage the free student compute it provides for one year.However, this can be built in local IDEs for small datasets for ease of usage and experimentations.<br>
 
 In the following section, I have given the details as per the way I have organized and experimented with my codes. <br>
 
+- Fork the repository <br>
+- Clone your forked repo to your local <br>
+```bash
+git clone 
+```
+- Open terminal and follow the below CLI prompts one by one<br>
+```bash
+cd “path to directory“
+```
 
 **This code repository is organised into following key components:**<br>
 - README.md: The current file you are reading giving an overview of the project.<br>

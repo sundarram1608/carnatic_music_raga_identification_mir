@@ -35,7 +35,8 @@ In this Readme file, I have given the details as per the way I have organized an
 This code repository is organised into following key components:<br>
 - README.md: The current file you are reading giving an overview of the project.<br>
 - requirements.txt: Contains all the necessary libraries that should be installed in the local environment of Microsoft Visual Studio code. <br>
-	I recommend 
+	- I recommend using a virtual environemnt for installing the necessary libraries.
+	   
 - code_file.ipynb: This is the python code notebook (Jupyter notebook) that detail the following:<br> 
 	1. Library Import: <br>
 		-> Setting up your Python environment with necessary libraries.<br>

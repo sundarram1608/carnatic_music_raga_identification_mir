@@ -14,15 +14,28 @@ Link to the sample dataset: <br>
 The Sample dataset consisits 8 Melakarta Ragas, namely hanumathodi, harikaambhoji, kaamavardhini, kalyani, kharaharapriya, maayamaalavagowlai, shankaraabharanam & shanmugapriya. Minimum of 5 songs from each of these 8 ragas are selected based on their audio size and curated in the sample dataset.
 
 
-## Project Structure:<br>
-
+## Methodology:<br>
+Below methoddology has been followed in this project.<br>
 ![Methodology](methodology.jpg)
+<br>
+
+There are 3 major pipelines in this project:<br>
+![Architecture](architecture.jpg)
+<br>
+
+For this project, I used both Google Collab & Microsoft Visual Studio for coding. <br>
+Feature extraction was performed in Visual Studio code while EDA & Model Building was performed in Collab. <br>
+
+My observation and recommendation is to build the entire project in Collab to leverage the free student compute it provides for one year.<br>
+However, this can be built in local IDEs for small datasets for ease of usage and experimentations.
+
+In this Readme file, I have given the details as per the way I have organized and experimented with my codes. 
 
 
-
-The project is organised into several key components:<br>
+This code repository is organised into following key components:<br>
 - README.md: The current file you are reading giving an overview of the project.<br>
-- German_bank.csv: The loan default dataset that is provided. <br>
+- requirements.txt: Contains all the necessary libraries that should be installed in the local environment of Microsoft Visual Studio code. <br>
+	I recommend 
 - code_file.ipynb: This is the python code notebook (Jupyter notebook) that detail the following:<br> 
 	1. Library Import: <br>
 		-> Setting up your Python environment with necessary libraries.<br>

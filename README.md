@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 ## Credits:
 I thank my mentor Dr. Xiao Hu and all the references and citations I have mentioned below, to enable me with the structured thought process to approach this problem.
-The codes in this repository, sample datasets and structuring solely belongs to the author and mentor. Links to any external references are available as an when leveraged.
+The codes in this repository, sample datasets and structuring solely belongs to the author and mentor.
 
 ## References:<br>
 [1] Serrà, J., Ganguli, K. K., Sentürk, S., Serra, X., & Gulati, S. (2016). Indian Art Music Raga Recognition Dataset (audio) (1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7278511<br><br>
